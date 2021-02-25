@@ -1,4 +1,6 @@
-# Hi there I'm Branislav Totić <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello world! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
+My name is Branislav Totić, bla bla...
 
 <!--
 **branislav-totic/branislav-totic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
