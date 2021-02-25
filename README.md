@@ -1,6 +1,6 @@
 # < Hello world! > <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> ![](https://komarev.com/ghpvc/?username=branislav-totic&color=green)
 
-My name is Branislav Totić, and I am self learned developer from Serbia, Novi Sad. I'm currently working in ![Decem](https://www.decem.co/) as Fron-End Developer on one of the most popular framework Reactjs.
+My name is Branislav Totić, and I am self learned developer from Serbia, Novi Sad. I'm currently working in [Decem](https://www.decem.co/) as Fron-End Developer on one of the most popular framework Reactjs.
 
 ## <img src="https://d29fhpw069ctt2.cloudfront.net/icon/image/74158/preview.svg" width="20px"> Github stats:
 
