@@ -17,11 +17,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### Most fun with:
+
 <span>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=branislav-totic&show_icons=true&theme=radical" />
 </span>
 <span>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=branislav-totic&show_icons=true&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?hide=java,shell&username=branislav-totic&show_icons=true&theme=radical" />
 </span>
 
 ![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
