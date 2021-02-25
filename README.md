@@ -1,6 +1,6 @@
 # Hello world! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-You are ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=branislav-totic.branislav-totic)
+![](https://komarev.com/ghpvc/?username=branislav-totic&color=green)
 
 My name is Branislav Totić, bla bla...
 
