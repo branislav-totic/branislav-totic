@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## <img src="https://d29fhpw069ctt2.cloudfront.net/icon/image/74158/preview.svg" width="25px">Github stats:
+## <img src="https://d29fhpw069ctt2.cloudfront.net/icon/image/74158/preview.svg" width="15px"> Github stats:
 
 <span>
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=branislav-totic&show_icons=true&theme=radical" />
