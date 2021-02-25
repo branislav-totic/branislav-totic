@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Most fun with:
+## Github stats:
 
 <span>
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=branislav-totic&show_icons=true&theme=radical" />
