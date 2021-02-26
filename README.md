@@ -5,10 +5,10 @@ My name is Branislav Totić, and I am self learned developer from Serbia, Novi S
 ## <img src="https://d29fhpw069ctt2.cloudfront.net/icon/image/74158/preview.svg" width="20px"> Github stats:
 
 <span>
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=branislav-totic&show_icons=true&theme=radical" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=branislav-totic&show_icons=true&theme=radical&count_private=true" />
 </span>
 <span>
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=branislav-totic&show_icons=true&theme=radical&layout=compact" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=branislav-totic&show_icons=true&theme=radical&layout=compact&count_private=true" />
 </span>
 
 ## ⚡ Technologies:
